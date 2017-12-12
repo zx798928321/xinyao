@@ -71,8 +71,8 @@ if (($(".donghua1").offset().top - Scroll - windowHeight) <= 0) {
 
 //我是谁
 if (($(".donghua2").offset().top - Scroll - windowHeight) <= 0) {
-    $(".donghua2 .cosl").animate({ right: '75%' }, 600);
-    $(".donghua2 .cosr").animate({ left: '75%' }, 600, function (e) {
+    $(".donghua2 .cosl").animate({ right: '78%' }, 600);
+    $(".donghua2 .cosr").animate({ left: '78%' }, 600, function (e) {
         $(".donghua2 h2").animate({ opacity: 1 }, 100, function (e) {
             $(".donghua2 .text").animate({ top: '70', opacity: 1,left:"42.5%", }, 300);
         });
