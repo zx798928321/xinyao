@@ -328,7 +328,7 @@ select::-ms-expand {
 .T_tit1 .cosl, .T_tit1 .cosr {  position: absolute; width: 166px; height: 110px; background: url(../images/index_who2.png) no-repeat; }
 .T_tit1 .cosl { right: 50%; background-position: left;top: 13px;  }
 .T_tit1 .cosr { left: 50%; background-position: right; top: 14px; }
-.T_tit1 h2 { font-size: 35px; line-height: 35px; height: 35px; opacity: 0; position: relative; color: #a08c44; font-weight: bold; width: 600px; left: 50%; text-align: center; font-family: impact, Arial; margin-left: -335px; padding-top: 5px; text-transform: uppercase; }
+.T_tit1 h2 { font-size: 35px; line-height: 35px; height: 35px; opacity: 0; position: relative; color: #a08c44; font-weight: bold; width: 610px; left: 50%; text-align: center; font-family: impact, Arial; margin-left: -335px; padding-top: 5px; text-transform: uppercase; }
 .T_tit1 .text { font-size: 18px; color: #a08c44; display: block; height: 28px; line-height: 28px; text-transform: uppercase; opacity: 1; font-family: "微软雅黑", "宋体"; font-weight: 400; top: 200px; left: 50%; margin-left: -125px; position: absolute; }
 
 .index_who_content_img1{
@@ -585,7 +585,8 @@ select::-ms-expand {
 }
 .index_friends .list li{
     float: left;
-    width: 240px;
+    width: 238px;
+    height: 179px;
     border: 1px solid #fff;
     cursor:pointer;
 }
